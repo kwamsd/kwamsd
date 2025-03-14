@@ -15,7 +15,7 @@
 - HTML, CSS, JavaScript, C, PHP, Java, Python
 
 ### 🔹 Frameworks & Bibliothèques
-- AlpineJS, Bootstrap
+- AlpineJS, Bootstrap, NodeJS
 
 ### 🔹 Bases de données
 - **SQL :** MySQL, PostgreSQL  
