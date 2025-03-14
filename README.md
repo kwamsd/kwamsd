@@ -1,4 +1,4 @@
-# 👋 Bienvenue chez moi
+# Bienvenue chez moi
 
 🌍 Basé à Paris, France.  
 🎓 Étudiant en Bachelor Développement Web & Application à l'EFREI Paris Pantheon-Assas.  
