@@ -2,9 +2,8 @@
 
 🌍 Basé à Paris, France.  
 🎓 Étudiant en Bachelor Développement Web & Application à l'EFREI Paris Pantheon-Assas.  
-🚀 Intéressé par la technologie appliquée au sport, l'analyse de données, l'IA, les jeux vidéo et le montage vidéo.  
-📚 Toujours curieux d'apprendre et d'explorer de nouvelles technologies.  
-🎯 Expérience en développement et gestion de projets académiques, avec une approche méthodique et adaptable.    
+🚀 Intéressé par la technologie appliquée au sport, l'analyse de données, l'IA, les jeux vidéo et le montage vidéo.   
+🎯 Expérience en développement et gestion de projets académiques, avec une approche méthodique et adaptable. Toujours curieux d'apprendre et d'explorer de nouvelles technologies.
 
 ---
 
