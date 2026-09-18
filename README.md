@@ -1,6 +1,6 @@
 ### Data Engineer & Full-Stack
 
-[cite_start]Passerelle entre ingénierie logicielle et pipelines de données : collecte, modélisation SQL et restitution analytique[cite: 6].
+Passerelle entre ingénierie logicielle et pipelines de données : collecte, modélisation SQL et restitution analytique.
 
 ---
 
