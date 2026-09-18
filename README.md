@@ -1,9 +1,3 @@
-### Data Engineer & Full-Stack
-
-Passerelle entre ingénierie logicielle et pipelines de données : collecte, modélisation SQL et restitution analytique.
-
----
-
 ### Stack technique
 
 <p align="center">
